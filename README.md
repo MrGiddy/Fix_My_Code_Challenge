@@ -27,6 +27,9 @@ $
 ```
 ```15``` should print ```FizzBuzz``` not ```Fizz```
 
+### 0-fizzbuzz solution
+- Refactor the code such that the condition for checking multiples of both 3 and 5 comes before the conditon for checking multiples of 3 alone.
+
 ## 1. Print square
 Please take a look at my implementation of printing a square in Javascript: [source code](hhttps://github.com/alx-tools/0x00-Fix_My_Code_Challenge/blob/master/1-print_square.js)
 

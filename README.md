@@ -27,7 +27,7 @@ $
 ```
 ```15``` should print ```FizzBuzz``` not ```Fizz```
 
-### 0-fizzbuzz solution
+### Solution
 - Refactor the code such that the condition for checking multiples of both 3 and 5 comes before the conditon for checking multiples of 3 alone.
 
 ## 1. Print square
@@ -61,6 +61,9 @@ $
 ```
 
 ```./1-print_square.js``` 10 should print a square of size 10…
+
+### Solution
+- Change parsing of input number to base 10 instead of base 16
 
 ## 2. Sort
 Please find here my implementation of sorting arguments in Ruby: [source code](https://github.com/alx-tools/0x00-Fix_My_Code_Challenge/blob/master/2-sort.rb)
